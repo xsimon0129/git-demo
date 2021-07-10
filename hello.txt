@@ -8,4 +8,5 @@ hello xsimon! welcome to Git!
 hello xsimon! welcome to Git!
 hello xsimon! welcome to Git!
 hello xsimon! welcome to Git!
-hello xsimon! welcome to Git!
+hello xsimon! welcome to Git! hot-fix test
+
